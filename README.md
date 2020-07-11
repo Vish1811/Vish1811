@@ -1,5 +1,5 @@
 ### Hi. I'm Vishnu Kumar. I'm a student and a programmer from Lucknow,UttarPradesh, India. 👋
-![Vishnu](https://user-images.githubusercontent.com/36665975/87132741-f135f080-c2b3-11ea-9368-bcb20e1b8653.png)
+![Vishnu](https://drive.google.com/file/d/14KpQ77PagM6Rdf7h1gN_F6jbptTbxXYP/view?usp=sharing)
 
 
 
