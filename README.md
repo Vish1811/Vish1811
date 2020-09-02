@@ -1,6 +1,12 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Vishnu Kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-## My name is Vishnu Kumar.I'm a student,programmer and a Web Developer from Lucknow,UttarPradesh, India. 👋
+<h3>My name is Vishnu Kumar.I'm a student,programmer and a Web Developer from Lucknow,UttarPradesh, India. 👋 </h3>
+
+<!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1021-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11k%20lines%20of%20code-blue)
+
 
 
 
@@ -46,16 +52,11 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vish1811&theme=highcontrast&hide=css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Vish1811/Vish1811">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vish1811&theme=highcontrast&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vishnu's GitHub Stats" />
-</a>
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Vish1811&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vish1811&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
-<a href="https://github.com/Vish1811/NM389_Heisenbugs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vish1811&repo=NM389_Heisenbugs&theme=highcontrast&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+
+
+
 
 
 <a href="https://github.com/Vish1811/Vishodhan">
@@ -66,6 +67,14 @@
 <p><a href="https://github.com/Vish1811" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/vish18111" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/vish1811" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@Vish1811" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
+#### 🧡 &nbsp;&nbsp;My passions
+
+* Technology and software
+* Science 
+* Machine learning 
+* Books 
+* Nutrition
+* Nature
 
 
 
@@ -93,15 +102,11 @@
 
 
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
+<div align="center">
 
-## Vishnu has 11 followers
-
-[@p-mohamed-elsawy](https://github.com/p-mohamed-elsawy) | [@SabaKarimi](https://github.com/SabaKarimi) | [@niimmii](https://github.com/niimmii) | [@shre-ya](https://github.com/shre-ya)
---- | --- | --- | ---
-![@p-mohamed-elsawy](https://avatars.githubusercontent.com/p-mohamed-elsawy?s=150&v=1) | ![@SabaKarimi](https://avatars.githubusercontent.com/SabaKarimi?s=150&v=1) | ![@niimmii](https://avatars.githubusercontent.com/niimmii?s=150&v=1) | ![@shre-ya](https://avatars.githubusercontent.com/shre-ya?s=150&v=1)
-
+### Show some ❤️ by starring some of the repositories!
+</div>
 
 
 <!--
