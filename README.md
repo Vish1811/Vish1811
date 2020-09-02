@@ -1,6 +1,12 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Vishnu Kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+
+
+![](https://github.com/Vish1811/Vish1811/blob/master/icons/header_.png)
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<h3>My name is Vishnu Kumar.I'm a student,programmer and a Web Developer from Lucknow,UttarPradesh, India. 👋 </h3>
+<h3>I'm a student,programmer and a Web Developer from Lucknow,UttarPradesh, India. 👋 </h3>
+
+
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1021-blue)
