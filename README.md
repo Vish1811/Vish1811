@@ -1,24 +1,31 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Vishnu Kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
+---
 
 ![](https://github.com/Vish1811/Vish1811/blob/master/icons/header_.png)
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<h3>I'm a student,programmer and a Web Developer from Lucknow,UttarPradesh, India. 👋 </h3>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">![Profile Views](http://img.shields.io/badge/Profile%20Views-1021-blue)      ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11k%20lines%20of%20code-blue)
 
+<p>
+  <em>
+    A <b>student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Mathura(U.P), India.
+  </em>
+ </p>
+ 
+ ---
+ 
+ **Talking about Personal Stuffs:**
 
+- 💼 I’m currently pursuing my final year of Bachelor's degree in Information Technology at [IET LUCKNOW](https://www.ietlucknow.ac.in/);
+- 🤔 My interests are with Web App Development 🖥️, Machine Learning 📊, Cricket 🏏, Space 🚀, etc..;
+- 🎬 I love watching documentaries related to Science,Technnology and History.
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email via codevish1811@gmail.com to reach me;
+<br/> 
+</em>
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1021-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11k%20lines%20of%20code-blue)
-
-
-
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 ---
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -42,6 +49,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+---
+
 
 
 ## 🔧 Technologies & Tools
@@ -56,25 +65,28 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
+---
+
 ## &#x1f4c8; GitHub Stats
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Vish1811&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vish1811&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
-
-
 <a href="https://github.com/Vish1811/NM389_Heisenbugs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vish1811&repo=NM389_Heisenbugs&theme=highcontrast&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
-
-
-
 <a href="https://github.com/Vish1811/Vishodhan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vish1811&repo=Vishodhan&theme=highcontrast&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
+</a> 
+
+---
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Vish1811" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/vish18111" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/vish1811" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@Vish1811" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
 
 #### 🧡 &nbsp;&nbsp;My passions
 
@@ -84,6 +96,8 @@
 * Books 
 * Nutrition
 * Nature
+
+---
 
 
 
