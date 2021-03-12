@@ -125,6 +125,10 @@
 
 ### Show some ❤️ by starring some of the repositories!
 </div>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Vish1811/count.svg" />
+</p>
 
 
 <!--
