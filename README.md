@@ -11,11 +11,7 @@
 
 <h3 align='center'><strong><a href="https://portfolio-vishnu-kumar.vercel.app/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'> Web developer | ML Enthusiast | Competitive Programmer | Curious </p>
-<h3>Where to find me</h3>
-<p><a href="https://github.com/Vish1811" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/vish18111" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/vish1811" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@Vish1811" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
 
----
 
 
 
@@ -56,6 +52,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vish1811&repo=Vishodhan&theme=highcontrast&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 ---
+<h3>Where to find me</h3>
+<p><a href="https://github.com/Vish1811" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/vish18111" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/vish1811" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@Vish1811" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
+
 
 <h3>Things I code with</h3>
 <p>
@@ -106,9 +107,9 @@
 
 ---
 <div align="center">
-### Show some ❤️ by starring some of the repositories!
 <p align="center"> 
-  Visitor count<br>
+   Show some ❤️ by starring some of the repositories!<br>
+  <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/Vish1811/count.svg" />
 </p>
 
