@@ -8,7 +8,7 @@
 
 <h2 align='center'><samp><strong>नमस्ते (Namaste)🙏🏻, I'm Vishnu Kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"></strong></samp></h2>
 <h3 align='center'><strong><a href="https://portfolio-vishnu-kumar.vercel.app/" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'> Web developer | ML Enthusiast | Competitive Programmer | Curious </p>
+<p align='center'><b> Web developer | ML Enthusiast | Competitive Programmer | Curious </b></p>
 
 
 
@@ -20,6 +20,8 @@
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
  </p>
  
+ ---
+ 
  
  **Talking about Personal Stuffs:**
 
@@ -30,6 +32,8 @@
 - 📫 Please email via codevish1811@gmail.com to reach me;
 <br/> 
 </em>
+
+---
 ## &#x1f4c8; GitHub Stats
 
 <p style="display: flex; justify-contect: space-between;">
@@ -46,13 +50,13 @@
 <a href="https://github.com/Vish1811/Vishodhan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vish1811&repo=Vishodhan&theme=highcontrast&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
-<h3>Where to find me</h3>
+## Where to find me
 <p><a href="https://github.com/Vish1811" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/vish18111" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/vish1811" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@Vish1811" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 
 
-<h3>Things I code with</h3>
+## Things I code with
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-13aa52?style=flat-square&logo=java&logoColor=white" />
@@ -87,7 +91,7 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
-#### 🧡 &nbsp;&nbsp;My passions
+## 🧡 &nbsp;&nbsp;My passions
 
 * Technology and software
 * Science 
