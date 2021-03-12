@@ -39,6 +39,23 @@
 </em>
 
 ---
+## &#x1f4c8; GitHub Stats
+
+<p style="display: flex; justify-contect: space-between;">
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Vish1811" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+</p>
+
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Vish1811&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vish1811&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+
+
+<a href="https://github.com/Vish1811/NM389_Heisenbugs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vish1811&repo=NM389_Heisenbugs&theme=highcontrast&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
+<a href="https://github.com/Vish1811/Vishodhan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vish1811&repo=Vishodhan&theme=highcontrast&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+---
 
 <h3>Things I code with</h3>
 <p>
@@ -74,28 +91,6 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 ---
-
-## &#x1f4c8; GitHub Stats
-
-<p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Vish1811" />
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-</p>
-
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Vish1811&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vish1811&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
-
-
-<a href="https://github.com/Vish1811/NM389_Heisenbugs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vish1811&repo=NM389_Heisenbugs&theme=highcontrast&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
-<a href="https://github.com/Vish1811/Vishodhan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vish1811&repo=Vishodhan&theme=highcontrast&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-
----
-
-
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
@@ -110,42 +105,14 @@
 * Nature
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
-
 ### Show some ❤️ by starring some of the repositories!
-</div>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Vish1811/count.svg" />
 </p>
+
+</div>
 
 
 <!--
