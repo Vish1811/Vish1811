@@ -3,12 +3,12 @@
 
 
 ![](https://github.com/Vish1811/Vish1811/blob/master/icons/header_.png)
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">![Profile Views](http://img.shields.io/badge/Profile%20Views-1021-blue)      ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11k%20lines%20of%20code-blue)
-
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1021-blue)      ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11k%20lines%20of%20code-blue)
 
 
 <h2 align='center'><samp><strong>नमस्ते (Namaste)🙏🏻, I'm Vishnu Kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"></strong></samp></h2>
+
+
 <h3 align='center'><strong><a href="https://portfolio-vishnu-kumar.vercel.app/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'> Web developer | ML Enthusiast | Competitive Programmer | Curious </p>
 <h3>Where to find me</h3>
@@ -23,6 +23,7 @@
   <em>
     A <b>student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Mathura(U.P), India.
   </em>
+  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
  </p>
  
  ---
@@ -34,7 +35,6 @@
 - 🎬 I love watching documentaries related to Science,Technnology and History.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via codevish1811@gmail.com to reach me;
-- Portfolio 
 <br/> 
 </em>
 
