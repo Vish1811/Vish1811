@@ -30,8 +30,7 @@
 - 🎬 I love watching documentaries related to Science,Technnology and History.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via codevish1811@gmail.com to reach me;
-<br/> 
-</em>
+
 
 ---
 ## &#x1f4c8; GitHub Stats
@@ -50,7 +49,8 @@
 <a href="https://github.com/Vish1811/Vishodhan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vish1811&repo=Vishodhan&theme=highcontrast&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
-## Where to find me
+
+### Where to find me
 <p><a href="https://github.com/Vish1811" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/vish18111" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/vish1811" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@Vish1811" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
