@@ -1,4 +1,13 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Vishnu Kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+
+
+
+
+
+
+
+<h2 align='center'><samp><strong>नमस्ते (Namaste)🙏🏻, I'm Vishnu Kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"></strong></samp></h2>
+<h3 align='center'><strong><a href="https://portfolio-vishnu-kumar.vercel.app/" target="_blank">Portfolio🌐</a></strong></h3>
+<p align='center'> Web developer | ML Enthusiast | Competitive Programmer | Curious </p>
 
 ---
 
@@ -21,7 +30,7 @@
 - 🎬 I love watching documentaries related to Science,Technnology and History.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via codevish1811@gmail.com to reach me;
-- Portfolio https://portfolio-vishnu-kumar.vercel.app/
+- Portfolio 
 <br/> 
 </em>
 
