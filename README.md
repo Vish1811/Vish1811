@@ -3,7 +3,8 @@
 
 
 ![](https://github.com/Vish1811/Vish1811/blob/master/icons/header_.png)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1021-blue)      ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11k%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1021-blue) <!-- Visitor Count : ![Visitor Count](https://profile-counter.glitch.me/{MAZHARMIK}/count.svg) -->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11k%20lines%20of%20code-blue)
 
 
 <h2 align='center'><samp><strong>नमस्ते (Namaste)🙏🏻, I'm Vishnu Kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"></strong></samp></h2>
